@@ -4,6 +4,8 @@ int main (int argc, char* argv[])
 {
   using namespace std;
 
+  int a;
+  
   if (argc < 2)
   {
     cerr << "error: missing name" << endl;
