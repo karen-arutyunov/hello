@@ -1,6 +1,6 @@
 : 1
 name: libhello
-version: 0.1.2
+version: 0.1.2+1
 project: hello
 summary: hello library
 license: TODO

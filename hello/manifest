@@ -1,6 +1,6 @@
 : 1
 name: hello
-version: 0.1.2
+version: 0.1.2+1
 summary: hello executable
 license: TODO
 url: https://example.org/hello
