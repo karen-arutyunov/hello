@@ -8,5 +8,5 @@ email: user@example.org
 depends: * build2 >= 0.8.0-
 depends: * bpkg >= 0.8.0-
 #depends: libhello ^1.0.0
-#description-files: README
-
+description: ~~ Hello ~~
+description-type: text/markdown
