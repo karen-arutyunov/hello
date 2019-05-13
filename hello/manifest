@@ -10,6 +10,12 @@ depends: * bpkg >= 0.8.0-
 #depends: libhello ^1.0.0
 src-url: https://github.com/github/cmark-gfm
 description: \
+    mkdir build
+    cd build
+    cmake ..  # optionally: -DCMAKE_INSTALL_PREFIX=path
+    make      # executable will be created as build/src/cmark
+    make test
+    make install
 cmark-gfm
 =========
 

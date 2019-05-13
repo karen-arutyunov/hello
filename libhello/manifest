@@ -6,6 +6,12 @@ summary: hello library
 license: TODO
 src-url: https://docs.gitlab.com/ee/
 description: \
+```mkdir build
+cd build
+cmake ..  # optionally: -DCMAKE_INSTALL_PREFIX=path
+make      # executable will be created as build/src/cmark
+make test
+make install```
 ---
 comments: false
 description: 'Learn how to use and administer GitLab, the most scalable Git-based ~fully~ integrated platform for software development.'
