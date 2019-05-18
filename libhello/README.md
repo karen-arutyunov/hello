@@ -512,6 +512,8 @@ Some <span>HTML</span> to follow.
 Some HTML is here.
 </div>
 
+End of <a href="https://example.com">HTML</a>.
+
 <div align="right">
   <a type="button" class="btn btn-default" href="#overview">
     Back to Overview <i class="fa fa-angle-double-up" aria-hidden="true"></i>
