@@ -508,9 +508,9 @@ Learn how to contribute to GitLab with the following resources:
 
 Some <span>HTML</span> to follow.
 
-<div align="right">
+<p>
 Some HTML is here.
-</div>
+</p>
 
 End of <a href="https://example.com">HTML</a>.
 
