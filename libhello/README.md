@@ -507,6 +507,10 @@ Learn how to contribute to GitLab with the following resources:
 | [Writing documentation](development/documentation/index.md) | How to contribute to GitLab Docs.        |
 
 <div align="right">
+Some HTML is here.
+</div>
+
+<div align="right">
   <a type="button" class="btn btn-default" href="#overview">
     Back to Overview <i class="fa fa-angle-double-up" aria-hidden="true"></i>
   </a>
