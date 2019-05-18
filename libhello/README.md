@@ -506,7 +506,7 @@ Learn how to contribute to GitLab with the following resources:
 | [Legal](legal/README.md)                                    | Contributor license agreements.          |
 | [Writing documentation](development/documentation/index.md) | How to contribute to GitLab Docs.        |
 
-Some HTML to follow.
+Some <span>HTML</span> to follow.
 
 <div align="right">
 Some HTML is here.
