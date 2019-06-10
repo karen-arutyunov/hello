@@ -5,7 +5,7 @@ upstream-version: 0.1.2.abc.15
 summary: hello executable
 license: TODO
 url: https://example.org/hello
-doc-url: example/hello; Bad URL
+doc-url: http://example.com/hello
 email: user@example.org
 depends: * build2 >= 0.8.0-
 depends: * bpkg >= 0.8.0-
