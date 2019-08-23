@@ -1,6 +1,6 @@
 : 1
 name: libhello
-version: 0.1.2+11
+version: 0.1.2+12
 upstream-version: 0.1.2.abc.15
 project: hello
 summary: hello library
