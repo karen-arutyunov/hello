@@ -1,6 +1,6 @@
 : basics
 :
-$* 'World' >'Hello, World!'
+$* '°orld' >'Hello, °orld!'
 
 : missing-name
 :
