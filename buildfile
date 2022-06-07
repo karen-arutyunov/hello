@@ -1,1 +1,1 @@
-./: {*/ -build/} doc{README.md} manifest
+./: {*/ -build/ -hello-mod/} doc{README.md} manifest
