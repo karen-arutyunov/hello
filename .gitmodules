@@ -1,0 +1,3 @@
+[submodule "hello-mod"]
+	path = hello-mod
+	url = ../hello-mod.git/
