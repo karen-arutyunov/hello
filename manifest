@@ -13,7 +13,7 @@ depends: * bpkg >= 0.16.0
 #depends: libhello ^1.0.0
 builds: all
 
-build-bot:
+network-build-bot:
 \
 -----BEGIN PUBLIC KEY-----
 MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAxAVEy8JHvr4LFt20cHnE
