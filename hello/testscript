@@ -1,3 +1,7 @@
 : basics
 :
-$* >'xx'
+$* >>EOO
+xx
+x
+x
+EOO
