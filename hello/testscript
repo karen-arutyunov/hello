@@ -9,4 +9,7 @@ $* >>EOO
 
 'bb' 'a*' 'x': 'xbxbx'
 'bb' 'a*' 'x' (match_not_null): 'bb'
+
+'b' 'a*' 'x': 'xbx'
+'b' 'a*' 'x' (match_not_null): 'b'
 EOO

@@ -23,5 +23,9 @@ int main (int argc, char* argv[])
 
     cout << "'bb' 'a*' 'x': '" << regex_replace("bb", re, "x") << "'" << endl;
     cout << "'bb' 'a*' 'x' (match_not_null): '" << regex_replace("bb", re, "x", regex_constants::match_not_null) << "'" << endl;
+    cout << endl;
+
+    cout << "'b' 'a*' 'x': '" << regex_replace("b", re, "x") << "'" << endl;
+    cout << "'b' 'a*' 'x' (match_not_null): '" << regex_replace("b", re, "x", regex_constants::match_not_null) << "'" << endl;
   }
 }
