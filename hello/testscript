@@ -1,7 +1,12 @@
 : basics
 :
 $* >>EOO
-xx
-x
-x
+'a' '.*' 'x': 'xx'
+'a' '.*' 'x' (match_not_null): 'x'
+
+'' '.*' 'x': 'x'
+'' '.*' 'x' (match_not_null): ''
+
+'bb' 'a*' 'x': 'xbxbx'
+'bb' 'a*' 'x' (match_not_null): 'bb'
 EOO
