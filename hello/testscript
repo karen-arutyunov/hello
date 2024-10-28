@@ -1,6 +1,21 @@
 : basics
 :
 $* >>EOO
+'bb' 'a*': match
+'bb' 'a*' (match_not_null): no match
+
+'' '.*': match
+'' '.*' (match_not_null): no match
+
+'a' '.*': match
+'a' '.*' (match_not_null): match
+
+EOO
+
+#\
+: basics
+:
+$* >>EOO
 'a' '.*' 'x' (match_not_null): 'x'
 
 '' '.*' 'x': 'x'
@@ -8,7 +23,11 @@ $* >>EOO
 'bb' 'a*' 'x' (match_not_null): 'bb'
 
 'b' 'a*' 'x' (match_not_null): 'b'
+
+'bb' 'a*': match
+'bb' 'a*' (match_not_null): no match
 EOO
+#\
 
 #\
 : basics
