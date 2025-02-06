@@ -4,6 +4,7 @@ The `hello` executable is a <SUMMARY-OF-FUNCTIONALITY>.
 
 Note that the `hello` executable in this package provides `build2` metadata.
 
+
 ## Usage
 
 To start using `hello` in your project, add the following build-time
