@@ -6,6 +6,7 @@ Note that the `hello` executable in this package provides `build2` metadata.
 
 ## Usage
 
+
 To start using `hello` in your project, add the following build-time
 `depends` value to your `manifest`, adjusting the version constraint as
 appropriate:
