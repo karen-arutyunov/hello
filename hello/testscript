@@ -1,6 +1,7 @@
 : basics
 :
 $* >>EOO
+!!!!!!!!!!!!!!!!!!!!!!!!!!!
 'bb' 'a*': match
 'bb' 'a*' (match_not_null): no match
 
