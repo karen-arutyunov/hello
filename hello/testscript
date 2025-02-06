@@ -1,6 +1,6 @@
 : basics
 :
-sleep 30;
+sleep 100;
 $* >>EOO
 !!!!!!!!!!!!!!!!!!!!!!!!!!!
 'bb' 'a*': match
