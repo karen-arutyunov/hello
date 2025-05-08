@@ -14,7 +14,7 @@ depends: * bpkg >= 0.16.0
 builds: none
 fedora-builds: sys
 fedora-build-include: linux_fedora_41-gcc_14-bindist 
-
+build-exclude: **
 
 #builds: all
 #config-2-builds: all
