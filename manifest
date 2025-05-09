@@ -11,12 +11,12 @@ email: karen@codesynthesis.com
 depends: * build2 >= 0.16.0
 depends: * bpkg >= 0.16.0
 
-builds: none
-fedora-builds: sys
-fedora-build-include: linux_fedora_41-gcc_14-bindist 
-fedora-build-exclude: **
+#builds: none
+#fedora-builds: sys
+#fedora-build-include: linux_fedora_41-gcc_14-bindist 
+#fedora-build-exclude: **
 
-#builds: all
+builds: all
 #config-2-builds: all
 #config-3-builds: all
 #config-4-builds: all
