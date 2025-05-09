@@ -25,3 +25,4 @@ fedora-build-exclude: **
 #config-7-builds: all
 #config-8-builds: all
 #config-9-builds: all
+
