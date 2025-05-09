@@ -17,7 +17,7 @@ depends: * bpkg >= 0.16.0
 #fedora-build-exclude: **
 
 builds: all
-config-2-builds: all
+#config-2-builds: all
 #config-3-builds: all
 #config-4-builds: all
 #config-5-builds: all
