@@ -1,4 +1,4 @@
 : 1
-#location: hello/
-#:
+location: hello/
+:
 location: libhello/
