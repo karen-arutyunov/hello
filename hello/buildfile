@@ -1,6 +1,3 @@
-libs =
-#import libs += libhello%lib{hello}
+./: {*/ -build/} doc{README.md} manifest
 
-exe{hello}: {hxx ixx txx cxx}{**} $libs testscript
-
-cxx.poptions =+ "-I$out_root" "-I$src_root"
+#print $regex.replace('a', '.*', 'x')

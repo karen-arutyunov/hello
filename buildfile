@@ -1,3 +1,4 @@
-./: {*/ -build/} doc{README.md} manifest
+# Glue buildfile that "pulls" all the packages.
 
-#print $regex.replace('a', '.*', 'x')
+import pkgs = {*/}
+./: $pkgs
